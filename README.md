@@ -4,9 +4,9 @@
 
 This paper has been submitted to ***Knowledge-Based Systems***. 
 ## Figures
-![/SGS-SNN/fig3.png](https://github.com/CHNtao/SGS-SNN/blob/main/fig3.png)
+![/MA-SNN/autapse_negative.png](https://github.com/CHNtao/MA-SNN/blob/main/autapse_negative.png)
 * Negative feedback
-![/SGS-SNN/fig7.png](https://github.com/CHNtao/SGS-SNN/blob/main/fig7.png)
+![/MA-SNN/autapse_positive.png](https://github.com/CHNtao/MA-SNN/blob/main/autapse_positive.png)
 * Positive feedback
 
 
